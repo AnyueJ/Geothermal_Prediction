@@ -6,9 +6,9 @@ Accurate prediction of geothermal reservoir responses to alternative energy prod
 </p>
 
 ## Prerequisites
-Python 3.8
+Python 3.8.8
 
-Tensorflow 2
+Tensorflow 2.3.0
 
 ## Data
 Due to the data confidentiality, we are not allowed to share the field examples that were used in our paper. Only the synthetic examples are available in this repo
@@ -19,6 +19,7 @@ Due to the data confidentiality, we are not allowed to share the field examples 
   title={Recurrent Neural Networks for Prediction of Geothermal Reservoir Performance},
   
   author={Jiang, Anyue and Qin, Zhen and Cladouhos, Trenton T and Faulder, Dave and Jafarpour, Behnam}
+  
 }
 
 ## Acknowledgments
