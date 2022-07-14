@@ -14,12 +14,14 @@ Tensorflow 2.3.0
 Due to the data confidentiality, we are not allowed to share the field examples that were used in our paper. Only the synthetic examples are available in this repo
 
 ## Citation
-@article{jiangrecurrent,
-  
-  title={Recurrent Neural Networks for Prediction of Geothermal Reservoir Performance},
-  
-  author={Jiang, Anyue and Qin, Zhen and Cladouhos, Trenton T and Faulder, Dave and Jafarpour, Behnam}
-  
+@article{jiang2022recurrent,
+  title={Recurrent neural networks for short-term and long-term prediction of geothermal reservoirs},
+  author={Jiang, Anyue and Qin, Zhen and Faulder, Dave and Cladouhos, Trenton T and Jafarpour, Behnam},
+  journal={Geothermics},
+  volume={104},
+  pages={102439},
+  year={2022},
+  publisher={Elsevier}
 }
 
 ## Acknowledgments
